@@ -1,0 +1,4 @@
+client/dist
+client/node_modules
+client/jquery-3.2.0.min.js
+server/node_modules
