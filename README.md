@@ -1,5 +1,5 @@
 # Nettverksprogrammering
-Øvinger fra Nettverksprogrammering, våren 2017 på NTNU
+Øvinger fra TDAT2004 Nettverksprogrammering, våren 2017, 2. klasse dataingeniør på NTNU.
 
 ## Øvinger
 - [Øving 1: Tråder](Øving%201)
