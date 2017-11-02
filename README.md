@@ -13,5 +13,8 @@
 - [Øving 7: Klient og server](Øving%207)
 - [Øving 8: WebSocket](Øving%208)
 
+## Prosjekt
+Se eget repository for prosjekt om WebSocket [her](https://github.com/ingunnsund/Python-WebSocket).
+
 ## Se andre emner
 Se [liste-over-emener](https://github.com/Knutakir/liste-over-emner) for en liste over alle emner jeg har hatt på NTNU.
