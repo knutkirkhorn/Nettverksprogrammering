@@ -17,4 +17,4 @@
 Se eget repository for prosjekt om WebSocket [her](https://github.com/ingunnsund/Python-WebSocket).
 
 ## Se andre emner
-Se [liste-over-emener](https://github.com/Knutakir/liste-over-emner) for en liste over alle emner jeg har hatt på NTNU.
+Se [liste-over-emener](https://github.com/knutkirkhorn/liste-over-emner) for en liste over alle emner jeg har hatt på NTNU.
